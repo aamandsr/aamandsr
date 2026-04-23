@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7d917?style=flat&logoColor=white"/>
 </p>
 
 ## ⚙️ Ferramentas
