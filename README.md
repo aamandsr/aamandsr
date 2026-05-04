@@ -22,7 +22,8 @@
 
 <p align="left">
   🚧 Atualmente:<br>
-  Construindo projetos para portfólio com foco em APIs e sistemas back-end
+  Construindo projetos para portfólio com foco em APIs e sistemas back-end<br>
+  Realizando a "<a href="https://web.dio.me/track/formacao-dotnet-developer">Formação .NET Developer</a>" da plataforma DIO
 </p>
 
 <p align="left">
